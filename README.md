@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="[./your-logo-file.png](https://iconswxcc.s3.us-east-2.amazonaws.com/Github+TarekAyadiDev.jpg)" width="140" alt="TarekAyadiDev Logo"/>
+  <img src="https://iconswxcc.s3.us-east-2.amazonaws.com/Github+TarekAyadiDev.jpg" width="140" alt="TarekAyadiDev Logo"/>
 </p>
 
 <h1 align="center">👋 Hey, I'm Tarek Ayadi</h1>
