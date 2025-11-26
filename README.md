@@ -1,34 +1,34 @@
 <!-- HEADER -->
 
 <p align="center">
-  <img src="https://iconswxcc.s3.us-east-2.amazonaws.com/Github+TarekAyadiDev.jpg" width="140" alt="TarekAyadiDev Logo"/>
+  <img src="https://iconswxcc.s3.us-east-2.amazonaws.com/Github+TarekAyadiDev+Logo2.jpeg" width="140" alt="TarekAyadiDev Logo"/>
 </p>
 
-<h1 align="center">👋 Hey, I'm Tarek Ayadi</h1>
+<h1 align="center"> Tarek Ayadi</h1>
 <h3 align="center">Contact Center Architect • CCIE Collaboration • DevNet Specialist • AI Engineer</h3>
 
 ______________________________________________________________________
 
-## 🏴‍☠️ About Me
+## About Me
 
 I’m a **Contact Center & Collaboration Architect** with **12+ years** building, integrating, and upgrading enterprise CX platforms.\
 I specialize in:
 
-- **Cisco UCCE, CVP, CUCM, VVB, Finesse, Webex Contact Center**
-- **AI-powered automation, LLM engineering, and full-stack Python/Node development**
-- **Telecom + AI hybrid solutions** for call insights, coaching, real-time alerts & journey orchestration
-- **FastAPI, Hugging Face, React, Supabase**, and all modern cloud-native tooling
+- **Cisco Webex, CCE, CVP, CUCM, VVB, Finesse**
+- **AI-powered automation, LLM engineering, and full-stack Python/Node development**  
+- **Telecom + AI hybrid solutions** for call insights, coaching, real-time alerts & journey orchestration  
+- **FastAPI, Hugging Face, React**, and all modern cloud-native tooling  
 
 I take pride in being a **full-stack problem solver** — infrastructure, backend, frontend, AI, automation, customer experience… I build all of it.
 
 ______________________________________________________________________
 
-## 🛡️ Certifications
+## Certifications
 
-- 🥇 **CCIE Collaboration**
-- 🧪 **Cisco DevNet Professional**
-- 🧠 **AI Architect (LLM Engineering, FastAPI, Hugging Face)**
-- 🎧 **12 Years Contact Center Engineering**
+- **CCIE Collaboration**  
+- **Cisco DevNet Professional**  
+- **AI Architect (LLM Engineering, FastAPI, Hugging Face)**  
+- **12 Years Contact Center Engineering**
 
 ______________________________________________________________________
 
@@ -54,12 +54,14 @@ ______________________________________________________________________
 `React` · `Vite` · `Tailwind` · `Dashboards`
 
 ### 🟪 Data & Cloud
-
-`Supabase` · `PostgreSQL` · `AWS` · `Docker` · `Vercel`
+`PostgreSQL` · `AWS` · `Docker` · `Vercel`
 
 ______________________________________________________________________
 
-## 🚀 Highlight Projects
+## Highlight Dev Projects
+
+### 🔹 **Clipboard Manager**
+Offline app that helps you manage clipboard history, snippets, secrets and shortcuts.
 
 ### 🔹 **FastAPI Call Insights**
 
@@ -74,38 +76,26 @@ Analyzes transcripts and gives coaching tips, scoring, and agent feedback.
 
 Real-time escalation logic + LLM classification + Webex notifications.
 
-### 🔹 **Webex CX Case Viewer**
-
+### 🔹 **Webex CX Payment portal**
 Full backend + frontend system for managing CX cases with AI summaries.
 
-### 🔹 **MCP Server Skeleton**
+### 🔹 **JDS CaseManager**
+Full backend + frontend system for case management system based on JDS Journey Data Services.
 
-Connects Webex Agents → LLM Tools → CRM / Ticketing / Knowledge Base.
-
-### 🔹 **CRA Virtual Assistant**
-
-Multi-intent conversational assistant using knowledge bases and CX flows.
-
-### 🔹 **AI TikTok / YouTube Automation**
-
-Script generation, narration, workflow automation for faceless content.
 
 ______________________________________________________________________
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TarekAyadiDev&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarekAyadiDev&layout=compact&theme=tokyonight" height="180"/>
-</p>
+![My GitHub Stats](images/userstats.svg)
 
 ______________________________________________________________________
 
 ## 🤝 Connect With Me
 
 - 🌐 GitHub: **@TarekAyadiDev**
-- 💼 LinkedIn: *add link here*
-- 🌎 Miami, FL
+- 💼 LinkedIn: *https://www.linkedin.com/in/tarek-ayadi-0b843721/*  
+- 🌎 Miami, FL  
 
 ______________________________________________________________________
 
