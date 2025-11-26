@@ -12,9 +12,12 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     - name: Generate the user stats SVG
-      uses: cicirello/user-statistician@v1
-      with:
-        colors: dark
-        include-title: false
-        image-file: images/userstats.svg
-        gh_token: ${{ secrets.PULL_ALL_REPO_STATS }}
+  uses: cicirello/user-statistician@v1
+  with:
+    colors: dark
+    include-title: false
+    image-file: images/userstats.svg
+    commit-and-push: true
+  env:
+    GH_TOKEN: ${{ secrets.PULL_ALL_REPO_STATS }}
+
