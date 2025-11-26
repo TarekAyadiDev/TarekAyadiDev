@@ -18,5 +18,9 @@ jobs:
         colors: dark
         include-title: false
         image-file: images/userstats.svg     # Output SVG to this path
-      env:
-        GITHUB_TOKEN: ${{ secrets.PULL_ALL_REPO_STATS }}
+      with:
+        colors: dark
+        include-title: false
+        image-file: images/userstats.svg
+        gh_token: ${{ secrets.PULL_ALL_REPO_STATS }}
+
