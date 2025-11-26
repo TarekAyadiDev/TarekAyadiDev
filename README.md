@@ -3,7 +3,7 @@
   <img src="https://iconswxcc.s3.us-east-2.amazonaws.com/Github+TarekAyadiDev.jpg" width="140" alt="TarekAyadiDev Logo"/>
 </p>
 
-<h1 align="center">👋 Hey, I'm Tarek Ayadi</h1>
+<h1 align="center"> I'm Tarek Ayadi</h1>
 <h3 align="center">Contact Center Architect • CCIE Collaboration • DevNet Specialist • AI Engineer</h3>
 
 ---
@@ -13,21 +13,21 @@
 I’m a **Contact Center & Collaboration Architect** with **12+ years** building, integrating, and upgrading enterprise CX platforms.  
 I specialize in:
 
-- **Cisco UCCE, CVP, CUCM, VVB, Finesse, Webex Contact Center**  
+- **Cisco Webex, CCE, CVP, CUCM, VVB, Finesse**
 - **AI-powered automation, LLM engineering, and full-stack Python/Node development**  
 - **Telecom + AI hybrid solutions** for call insights, coaching, real-time alerts & journey orchestration  
-- **FastAPI, Hugging Face, React, Supabase**, and all modern cloud-native tooling  
+- **FastAPI, Hugging Face, React**, and all modern cloud-native tooling  
 
 I take pride in being a **full-stack problem solver** — infrastructure, backend, frontend, AI, automation, customer experience… I build all of it.
 
 ---
 
-## 🛡️ Certifications
+## Certifications
 
-- 🥇 **CCIE Collaboration**  
-- 🧪 **Cisco DevNet Professional**  
-- 🧠 **AI Architect (LLM Engineering, FastAPI, Hugging Face)**  
-- 🎧 **12 Years Contact Center Engineering**
+- **CCIE Collaboration**  
+- **Cisco DevNet Professional**  
+- **AI Architect (LLM Engineering, FastAPI, Hugging Face)**  
+- **12 Years Contact Center Engineering**
 
 ---
 
@@ -49,11 +49,11 @@ I take pride in being a **full-stack problem solver** — infrastructure, backen
 `React` · `Vite` · `Tailwind` · `Dashboards`  
 
 ### 🟪 Data & Cloud
-`Supabase` · `PostgreSQL` · `AWS` · `Docker` · `Vercel`
+`PostgreSQL` · `AWS` · `Docker` · `Vercel`
 
 ---
 
-## 🚀 Highlight Projects
+## Highlight Dev Projects
 
 ### 🔹 **FastAPI Call Insights**
 LLM-powered call summarization + sentiment + frustration flags.  
@@ -91,7 +91,7 @@ Script generation, narration, workflow automation for faceless content.
 ## 🤝 Connect With Me
 
 - 🌐 GitHub: **@TarekAyadiDev**
-- 💼 LinkedIn: *add link here*  
+- 💼 LinkedIn: *https://www.linkedin.com/in/tarek-ayadi-0b843721/*  
 - 🌎 Miami, FL  
 
 ---
