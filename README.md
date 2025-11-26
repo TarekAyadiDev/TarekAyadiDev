@@ -55,6 +55,9 @@ I take pride in being a **full-stack problem solver** — infrastructure, backen
 
 ## Highlight Dev Projects
 
+### 🔹 **Clipboard Manager**
+Offline app that helps you manage clipboard history, snippets, secrets and shortcuts.
+
 ### 🔹 **FastAPI Call Insights**
 LLM-powered call summarization + sentiment + frustration flags.  
 Hugging Face inference + FastAPI + export-to-CSV/JSON.
@@ -65,17 +68,12 @@ Analyzes transcripts and gives coaching tips, scoring, and agent feedback.
 ### 🔹 **Agent Alerting System**
 Real-time escalation logic + LLM classification + Webex notifications.
 
-### 🔹 **Webex CX Case Viewer**
+### 🔹 **Webex CX Payment portal**
 Full backend + frontend system for managing CX cases with AI summaries.
 
-### 🔹 **MCP Server Skeleton**
-Connects Webex Agents → LLM Tools → CRM / Ticketing / Knowledge Base.
+### 🔹 **JDS CaseManager**
+Full backend + frontend system for case management system based on JDS Journey Data Services.
 
-### 🔹 **CRA Virtual Assistant**
-Multi-intent conversational assistant using knowledge bases and CX flows.
-
-### 🔹 **AI TikTok / YouTube Automation**
-Script generation, narration, workflow automation for faceless content.
 
 ---
 
