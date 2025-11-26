@@ -1,9 +1,9 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://iconswxcc.s3.us-east-2.amazonaws.com/Github+TarekAyadiDev.jpg" width="140" alt="TarekAyadiDev Logo"/>
+  <img src="https://iconswxcc.s3.us-east-2.amazonaws.com/Github+TarekAyadiDev+Logo2.jpeg" width="140" alt="TarekAyadiDev Logo"/>
 </p>
 
-<h1 align="center"> I'm Tarek Ayadi</h1>
+<h1 align="center"> Tarek Ayadi</h1>
 <h3 align="center">Contact Center Architect • CCIE Collaboration • DevNet Specialist • AI Engineer</h3>
 
 ---
@@ -79,10 +79,7 @@ Full backend + frontend system for case management system based on JDS Journey D
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TarekAyadiDev&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarekAyadiDev&layout=compact&theme=tokyonight" height="180"/>
-</p>
+![My GitHub Stats](images/userstats.svg)
 
 ---
 
