@@ -27,4 +27,5 @@ jobs:
           image-file: images/userstats.svg
           commit-and-push: true
         env:
+          GITHUB_TOKEN: ${{ secrets.PULL_ALL_REPO_STATS }}
           GH_TOKEN: ${{ secrets.PULL_ALL_REPO_STATS }}
