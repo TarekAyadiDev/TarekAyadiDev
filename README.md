@@ -8,7 +8,7 @@
 
 ---
 
-## 🏴‍☠️ About Me
+## About Me
 
 I’m a **Contact Center & Collaboration Architect** with **12+ years** building, integrating, and upgrading enterprise CX platforms.  
 I specialize in:
